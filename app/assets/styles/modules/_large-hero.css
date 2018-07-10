@@ -30,8 +30,9 @@
 	&__subtitle{
 		font-weight: 300;
 		color: $mainBlue;
+		font-size: 1.5rem;
 		margin: 0;		
-		font-size: 1.5rem;	
+			
 		
 		@mixin atSmall{
 			font-size: 2.9rem;
